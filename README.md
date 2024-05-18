@@ -12,15 +12,7 @@ This repository is created to practice and improve my understanding of algorithm
 
 2. **NeetCode**
    - [NeetCode YouTube Channel](https://www.youtube.com/@NeetCode)
-
-## Repository Structure
-
-The repository is organized as follows:
-
-- `solutions/`: Contains the Python solutions for various algorithmic problems.
-- `notes/`: Contains notes and explanations related to different algorithms and data structures.
-- `tests/`: Contains test cases for the solutions.
-
+     
 ## How to Use
 
 1. Clone the repository:
