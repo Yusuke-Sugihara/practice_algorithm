@@ -1,6 +1,5 @@
 # practice_algorithm
 
-# Practice Algorithm
 
 ## Overview
 
